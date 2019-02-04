@@ -1,0 +1,36 @@
+PODS:
+  - AsyncSwift (2.0.4)
+  - IHProgressHUD (0.1.4)
+  - Neon (0.4.0)
+  - ReachabilitySwift (4.3.0)
+
+DEPENDENCIES:
+  - AsyncSwift
+  - IHProgressHUD (from `https://github.com/Swiftify-Corp/IHProgressHUD.git`)
+  - Neon
+  - ReachabilitySwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AsyncSwift
+    - Neon
+    - ReachabilitySwift
+
+EXTERNAL SOURCES:
+  IHProgressHUD:
+    :git: https://github.com/Swiftify-Corp/IHProgressHUD.git
+
+CHECKOUT OPTIONS:
+  IHProgressHUD:
+    :commit: 6c160f4ef2e9b924de58c8df3382a57ced957dfd
+    :git: https://github.com/Swiftify-Corp/IHProgressHUD.git
+
+SPEC CHECKSUMS:
+  AsyncSwift: 65775a7b32e740609b24969ece3de58723b9dc3e
+  IHProgressHUD: a01846bfbb581c761c79747c67b08387c3bdfae3
+  Neon: 7fb5a9327e7e57911843f608e08f4893a74deaf9
+  ReachabilitySwift: 408477d1b6ed9779dba301953171e017c31241f3
+
+PODFILE CHECKSUM: 2ac76281583d073a0f23f78e0007fe6915d3b5b2
+
+COCOAPODS: 1.5.3
